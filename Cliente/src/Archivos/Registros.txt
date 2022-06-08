@@ -1,0 +1,4 @@
+El estudiante 2126639 canceló la asignatura 111049M.
+Ahora tiene 12 créditos.
+El estudiante 2126639 matriculó la asignatura 111049M.
+Ahora tiene 15 créditos.
